@@ -1,3 +1,3 @@
 import "./application.pcss";
-
-document.body.insertAdjacentHTML("afterbegin", "Webpacker wosdfrks!");
+import "init";
+import "components/page/page";
